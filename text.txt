@@ -1,0 +1,1 @@
+It us sample text file for git example
